@@ -1,4 +1,4 @@
-# Scrape sale details from Autotrader.com using scrapy
+# Scrape car listings from Autotrader.com using scrapy
 
 A Scrapy spider to extract car sale information from autotrader.com.
 
